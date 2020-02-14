@@ -1,8 +1,10 @@
 # HealthCon Responsive HTML5 Website Template
 A responsive and excellence HTML5 website with slide-able style menu and sub menu feature for both mobile and desktop version.
 
-Preview:
+Desktop Version Preview:
 ![HealthCon Responsive HTML5 Template](https://creativeshop.ciihuy.com/wp-content/uploads/2020/02/Desktop-Version-HealtChon-Responsive-HTML5-Website-Template-from-Ciihuy-Creative-Store.jpg)
 
-For more info check this link: https://creativeshop.ciihuy.com/product/healthcon-responsive-html5-website-template/
+Mobile Version Preview:
+![HealthCon Responsive HTML5 Template Mobile Version](https://creativeshop.ciihuy.com/wp-content/uploads/2020/02/Mobile-Version-HealtChon-Responsive-HTML5-Website-Template-from-Ciihuy-Creative-Store-1.png)
 
+For more info check this link: https://creativeshop.ciihuy.com/product/healthcon-responsive-html5-website-template/
