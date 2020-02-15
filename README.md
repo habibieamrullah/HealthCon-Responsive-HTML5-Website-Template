@@ -7,7 +7,7 @@ A responsive and excellence HTML5 website with slide-able style menu and sub men
 
 ### Mobile Version Preview: 
 
-![HealthCon Responsive HTML5 Template Mobile Version](https://creativeshop.ciihuy.com/wp-content/uploads/2020/02/Mobile-Version-HealtChon-Responsive-HTML5-Website-Template-from-Ciihuy-Creative-Store-1.png)
+![HealthCon Responsive HTML5 Template Mobile Version](https://creativeshop.ciihuy.com/wp-content/uploads/2020/02/Mobile-Version-HealtChon-Responsive-HTML5-Website-Template-from-Ciihuy-Creative-Store-collaged.jpg)
 
 For more info check this link: https://creativeshop.ciihuy.com/product/healthcon-responsive-html5-website-template/
 
